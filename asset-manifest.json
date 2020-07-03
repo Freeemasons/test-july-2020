@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/test-july-2020/static/css/main.a9bed673.chunk.css",
+    "main.js": "/test-july-2020/static/js/main.307b75ff.chunk.js",
+    "main.js.map": "/test-july-2020/static/js/main.307b75ff.chunk.js.map",
+    "runtime-main.js": "/test-july-2020/static/js/runtime-main.13a62182.js",
+    "runtime-main.js.map": "/test-july-2020/static/js/runtime-main.13a62182.js.map",
+    "static/css/2.22d6b5ec.chunk.css": "/test-july-2020/static/css/2.22d6b5ec.chunk.css",
+    "static/js/2.0615bb36.chunk.js": "/test-july-2020/static/js/2.0615bb36.chunk.js",
+    "static/js/2.0615bb36.chunk.js.map": "/test-july-2020/static/js/2.0615bb36.chunk.js.map",
+    "index.html": "/test-july-2020/index.html",
+    "precache-manifest.b2b1a11bd69e00aaa111fb70cbedd869.js": "/test-july-2020/precache-manifest.b2b1a11bd69e00aaa111fb70cbedd869.js",
+    "service-worker.js": "/test-july-2020/service-worker.js",
+    "static/css/2.22d6b5ec.chunk.css.map": "/test-july-2020/static/css/2.22d6b5ec.chunk.css.map",
+    "static/css/main.a9bed673.chunk.css.map": "/test-july-2020/static/css/main.a9bed673.chunk.css.map",
+    "static/js/2.0615bb36.chunk.js.LICENSE.txt": "/test-july-2020/static/js/2.0615bb36.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.13a62182.js",
+    "static/css/2.22d6b5ec.chunk.css",
+    "static/js/2.0615bb36.chunk.js",
+    "static/css/main.a9bed673.chunk.css",
+    "static/js/main.307b75ff.chunk.js"
+  ]
+}
